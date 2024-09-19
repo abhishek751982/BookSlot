@@ -48,7 +48,7 @@ BookSlot is a full-stack booking application developed using the MERN stack. The
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishek751982/AbhiBook.git
+    git clone https://github.com/abhishek751982/BookSlot.git
     cd AbhiBook
     ```
 
