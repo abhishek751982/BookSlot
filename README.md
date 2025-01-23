@@ -4,6 +4,8 @@
 
 BookSlot is a full-stack booking application developed using the MERN stack. The app features real-time booking management, search and filtering functionalities, secure user authentication, and payment integration. Stripe is used for payments, and Cloudinary handles image uploads. Tailwind CSS is utilized for a responsive and modern UI design.
 
+![BookSlot](https://github.com/user-attachments/assets/0bb6a58b-6a96-452f-8b11-bc002c4d477b)
+
 ## Features
 
 - **Real-Time Booking Management**: Manage bookings and receive notifications in real time.
